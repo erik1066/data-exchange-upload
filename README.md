@@ -1,4 +1,6 @@
 # CDC Data Exchange (DEX) Upload
+
+**Note: This repository has been archived and will no longer be maintained as of 8/30/2025**
  
 The CDC Data Exchange (DEX) Upload API is an open-source service created to support public health data providers in their effort to share critical public health information with internal CDC Programs. The open-source model allows users to tailor the tool to fit specific data needs. <br/>
 
